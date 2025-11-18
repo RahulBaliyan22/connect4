@@ -1,0 +1,9 @@
+Connect4/target/
+Connect4/out/
+Connect4/dependency-reduced-pom.xml
+
+# Ignore everything in connect4-image
+Connect4/connect4-image/*
+
+# Except the exe
+!Connect4/connect4-image/bin/connect4.exe
